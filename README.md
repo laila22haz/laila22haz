@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **CRM project**
 
-- 🌱 I’m currently learning **Python**
-
 - 🤝 I’m looking for help with **Programming Tools**
 
 - 💬 Ask me about **Anything related with computer science**
